@@ -1,0 +1,15 @@
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\bin\Debug\PracticaProgra.DataAccess.dll.config
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\bin\Debug\PracticaProgra.DataAccess.dll
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\bin\Debug\PracticaProgra.DataAccess.pdb
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\bin\Debug\PracticaProgra.Entities.dll
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\bin\Debug\PracticaProgra.Entities.pdb
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\bin\Debug\PracticaProgra.Entities.dll.config
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\obj\Debug\PracticaProgra.DataAccess.csproj.AssemblyReference.cache
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\obj\Debug\PracticaProgra.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\obj\Debug\PracticaProgra.DataAccess.csproj.CopyComplete
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\obj\Debug\PracticaProgra.DataAccess.dll
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.DataAccess\obj\Debug\PracticaProgra.DataAccess.pdb

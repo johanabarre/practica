@@ -1,0 +1,14 @@
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\bin\Debug\PracticaProgra.Entities.dll.config
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\bin\Debug\PracticaProgra.Entities.dll
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\bin\Debug\PracticaProgra.Entities.pdb
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\bin\Debug\EntityFramework.dll
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\bin\Debug\EntityFramework.xml
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\obj\Debug\PracticaProgra.Entities.csproj.AssemblyReference.cache
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\obj\Debug\PracticaProgra.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\obj\Debug\PracticaProgra.Entities.csproj.CopyComplete
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\obj\Debug\PracticaProgra.Entities.dll
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\obj\Debug\PracticaProgra.Entities.pdb
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\obj\Debug\PracticaProgra.Entities.Migrations.inicio.resources
+C:\Users\yohan\source\repos\PracticaProgra\PracticaProgra.Entities\obj\Debug\PracticaProgra.Entities.csproj.GenerateResource.cache
